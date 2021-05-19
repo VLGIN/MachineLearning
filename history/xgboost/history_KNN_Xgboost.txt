@@ -1,0 +1,26 @@
+DATA KNN-AGE
+(upsampling)Learning rate: 0.01, n_estimators = 100, NDCG_score = 0.7510, Kaggle = 0.80703
+Learning rate: 0.01, n_estimators = 100, NDCG_score = 0.8212, Kaggle = 0.86463
+Learning rate: 0.01, n_estimators = 75, NDCG_score = 0.8206, Kaggle = 0.86417
+Learning rate: 0.01, n_estimators = 125, NDCG_score = 0.8215, Kaggle = 0.86481
+Learning rate: 0.01, n_estimators = 50, NDCG_score = 0.8186, Kaggle = 0.86237
+
+Learning rate: 0.05, n_estimators = 100, NDCG_score = 0.8241, Kaggle = 0.86854
+Learning rate: 0.05, n_estimators = 75, NDCG_score = 0.8240, Kaggle = 0.86818
+Learning rate: 0.05, n_estimators = 50, NDCG_score = 0.8237, Kaggle = 0.86818
+Learning rate: 0.05, n_estimators = 125, NDCG_score = 0.8243, Kaggle = 0.86828
+
+Learning rate: 0.1, n_estimators = 100, NDCG_score = 0.8243, Kaggle = 0.86780
+Learning rate: 0.1, n_estimators = 125, NDCG_score = 0.8242, Kaggle = 0.86750
+Learning rate: 0.1, n_estimators = 75, NDCG_score = 0.8245, Kaggle = 0.86819
+Learning rate: 0.1, n_estimators = 50, NDCG_score = 0.8246, Kaggle = 0.86820
+
+Learning rate: 0.15, n_estimators = 100, NDCG_score = 0.8232, Kaggle = 0.86721
+Learning rate: 0.15, n_estimators = 125, NDCG_score = 0.8228, Kaggle = 0.86652
+Learning rate: 0.15, n_estimators = 75, NDCG_score = 0.8239, Kaggle = 0.86736
+Learning rate: 0.15, n_estimators = 50, NDCG_score = 0.8242, Kaggle = 0.86779
+
+Learning rate: 0.2, n_estimators = 100, NDCG_score = 0.8215, Kaggle = 0.86488
+Learning rate: 0.2, n_estimators = 125, NDCG_score = 0.8207, Kaggle = 0.86451
+Learning rate: 0.2, n_estimators = 75, NDCG_score = 0.8224, Kaggle = 0.86584
+Learning rate: 0.2, n_estimators = 50, NDCG_score = 0.8235, Kaggle = 0.86683
