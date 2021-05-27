@@ -2,4 +2,4 @@ fill_age,model,ndcg_score on validation set,kaggle_private_score
 avg,xgboost,0.7782334902458473,0.81612
 knn,xgboost,0.7758824685181545,0.81123
 avg,ann,0.7137626235461122,0.72334
-knn,ann,0.7271085079633339,0.70040
+knn,ann,0.7071085079633339,0.70040
